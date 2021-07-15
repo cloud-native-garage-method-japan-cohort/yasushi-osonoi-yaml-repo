@@ -1,1 +1,0 @@
-# yasushi-osonoi-yaml-repo
